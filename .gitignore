@@ -23,7 +23,7 @@ DerivedData
 ios/.xcode.env.local
 
 # Ignore Google Services JSON file
-google-services.json
+android/app/google-services.json
 
 
 # Android/IntelliJ

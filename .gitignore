@@ -22,6 +22,10 @@ DerivedData
 *.xcuserstate
 ios/.xcode.env.local
 
+# Ignore Google Services JSON file
+google-services.json
+
+
 # Android/IntelliJ
 #
 build/
